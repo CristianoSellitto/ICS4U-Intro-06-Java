@@ -1,3 +1,4 @@
+package ca.mths.ics4u;
 /**
 * This is the package-info.java file.
 *
@@ -5,4 +6,3 @@
 * @version 1.0
 * @since   2024-02-14
 */
-package ca.mths.ics4u;
